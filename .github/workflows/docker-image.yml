@@ -35,4 +35,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: latest
+          tags: swiri021/activation_score_batch:latest
